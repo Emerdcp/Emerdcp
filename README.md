@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2>Prazer sou o Emerson Carvalho  👦🏻</h2>
 
-<!--
-**Emerdcp/Emerdcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-carvalho-3b298290)
+[![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:emersoncarvalho@hotmail.com.br)
+<h3>Você pode conhecer meu portifólio em (https://emerdcp.github.io/)</h3>
 
-Here are some ideas to get you started:
+Atualmente atuo como Analísta de Suporte do Sistema VL Correa, prenstando suporte e atendimento para EMPRESAS e CLIENTES.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎮 <b>Suporte ao Usuário</b>
+- 🌐 <b>Conexão Remota</b>
+- 📱  <b>Treinamento</b>
+- 💻 <b>Desenvolvimento de projetos para empresa.</b>
+<hr>
+<p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emerdcp&show_icons=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerdcp&show_icons=true&layout=compact" />
+</p>
